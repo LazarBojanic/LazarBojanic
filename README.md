@@ -1,6 +1,6 @@
 # Lazar Bojanic
 
-# I'm a 3rd year computer science student with a passion for game development, computer graphics and collaborative projects.
+# I'm a 4th year computer science student with a passion for game development, computer graphics and collaborative projects.
 
 ## Here are some of my projects:
 * Contract Managment Software - [InfoplanContractManagmentSoftware](https://github.com/LazarBojanic/InfoplanContractManagmentSoftware)
