@@ -5,7 +5,7 @@
 ## Here are some of my projects:
 * CalmEd Tics (Mobile Wellness App) - [CalmEd](https://github.com/LazarBojanic/CalmEd)
 * Infoplan (Contract Management Software) - [InfoplanContractManagmentSoftware](https://github.com/LazarBojanic/InfoplanContractManagmentSoftware)
-* engine (OpenGl Renderer) - [engine](https://github.com/LazarBojanic/engine)
+* engine (OpenGL Renderer) - [engine](https://github.com/LazarBojanic/engine)
 * WinterCubeTimer (Rubik's Cube Timer) - [WinterCubeTimer](https://github.com/LazarBojanic/WinterCubeTimer)
 * movie-app-js (Letterboxd-like Movie App) - [movie-app-js](https://github.com/LazarBojanic/movie-app-js)
 * absolutecinema (Programming Language Based on Movie Lingo) - [absolutecinema](https://github.com/LazarBojanic/absolutecinema)
